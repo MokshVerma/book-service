@@ -1,1 +1,1 @@
-# BookService
+# book-service
